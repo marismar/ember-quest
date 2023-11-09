@@ -1,16 +1,32 @@
-# Ember quest
+<h2 align="center">
+    Ember quest using Flame Engine 🔥
+</h2>
 
-A new Flutter project.
+<p align="center">
+  A simple arcade game where you have to collect as many stars as possible while avoiding enemies.
+</p>
 
-## Getting Started
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/marismarcosta/ember-quest?color=brightgreen" />
+  <a href="https://github.com/marismarcosta">
+    <img src="https://img.shields.io/badge/github-marismarcosta-7159C1?logo=GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marismarcosta/">
+    <img src="https://img.shields.io/badge/linkedin-marismarcosta-blue?logo=linkedin"/>
+  </a>
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+    <img alt="Space shooter" src=".github/ember_quest.gif" width="200px" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter v3.13.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run
+
+```
+flutter pub get
+flutter run
+```
